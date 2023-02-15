@@ -1,1 +1,1 @@
-1. a script that crates and alias
+a script that crates and alias
